@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MainMenu.unity
+    guid: c5184f55feec9314093aeb750c6aa7ea
+  - enabled: 1
+    path: Assets/LevelSelect.unity
+    guid: 3add583264065184e93952c8f200cd6c
+  - enabled: 0
+    path: Assets/Tutorial.unity
+    guid: cdd71be410a5c2f42ab1b4442410aae2
+  - enabled: 1
+    path: Assets/CH1LEVEL1.unity
+    guid: 3e4e55f3f917eea4cb481f9eec5ce3fd
+  - enabled: 1
+    path: Assets/Ch1Lv2.unity
+    guid: b5a5f3fea4954b4479c36977dbd6c6d1
+  - enabled: 1
+    path: Assets/CH1LEVEL3BOSS.unity
+    guid: d90dfec8c2bb1a044a406fb4590bda1b
+  - enabled: 0
+    path: Assets/CH2LEVEL1.unity
+    guid: 35256d3eb241d224aa7455b46f4dec52
+  - enabled: 0
+    path: Assets/CH3LEVEL1.unity
+    guid: 6687fd8ffdeafba4089103b47e778800
+  - enabled: 0
+    path: Assets/LevelTest.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/OptionsMenu.unity
+    guid: 0b0ae56e317b25745b94a16ac2b0da54
+  - enabled: 1
+    path: Assets/AboutMenu.unity
+    guid: f9fcd487afd00984c880909fdc3e4111
+  - enabled: 1
+    path: Assets/StoreMenu.unity
+    guid: 07ae3d9343772c846b441dce09030f30
+  m_configObjects: {}
